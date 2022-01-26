@@ -1,0 +1,15 @@
+{
+  "name": "bamse-memory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Binnaz Akyüz",
+  "license": "ISC",
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
